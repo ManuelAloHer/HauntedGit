@@ -1,0 +1,2587 @@
+fileFormatVersion: 2
+guid: c62f3e473bc584b4fadc1a0fa5ba6b59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4995961749505609124
+    second: girl-Shoot (1)
+  - first:
+      213: 3263124089614149240
+    second: girl-Dead (10)
+  - first:
+      213: 4658359576748086414
+    second: boy-Dead__006
+  - first:
+      213: -2816228744066512130
+    second: boy-Dead__005
+  - first:
+      213: 3733648899565474420
+    second: girl-Dead (6)
+  - first:
+      213: -9049722121030222106
+    second: boy-Dead__004
+  - first:
+      213: -1650205259503641139
+    second: girl-Dead (5)
+  - first:
+      213: 4773333946964597748
+    second: girl-Slide (1)
+  - first:
+      213: -1787337736871514656
+    second: girl-Slide (2)
+  - first:
+      213: 2761767173493113761
+    second: girl-Slide (3)
+  - first:
+      213: 693704112905894010
+    second: girl-Melee (4)
+  - first:
+      213: 1734037515369281106
+    second: boy-Dead__003
+  - first:
+      213: -5186445940703902534
+    second: girl-Dead (4)
+  - first:
+      213: -3062711489396252327
+    second: girl-Run (4)
+  - first:
+      213: 369760840496232047
+    second: boy-Run__004
+  - first:
+      213: -6263596205340727405
+    second: boy-Run__003
+  - first:
+      213: 6728524600796024142
+    second: girl-Dead (3)
+  - first:
+      213: -1751469490528701748
+    second: boy-Dead__002
+  - first:
+      213: -6849037515600443402
+    second: girl-Shoot (3)
+  - first:
+      213: 2381698446337290494
+    second: boy-Slide__000
+  - first:
+      213: 8548621428956354802
+    second: boy-Slide__001
+  - first:
+      213: 250766593491463436
+    second: boy-Slide__009
+  - first:
+      213: -2376923300452824883
+    second: boy-Slide__002
+  - first:
+      213: -7901017940863586533
+    second: boy-Slide__008
+  - first:
+      213: -1272124949314004686
+    second: boy-Slide__003
+  - first:
+      213: -680020395874390470
+    second: boy-Slide__007
+  - first:
+      213: -8742079031154341005
+    second: boy-Slide__004
+  - first:
+      213: -129386919813076893
+    second: boy-Slide__006
+  - first:
+      213: 165678648277688442
+    second: boy-Slide__005
+  - first:
+      213: 2734840222597769033
+    second: boy-Run__009
+  - first:
+      213: -546398837800719209
+    second: boy-Run__002
+  - first:
+      213: -2403891701303672364
+    second: boy-Run__007
+  - first:
+      213: -6417841079782564887
+    second: boy-Run__001
+  - first:
+      213: 7964887932457790508
+    second: girl-Run (8)
+  - first:
+      213: -1684752063364896709
+    second: girl-Melee (3)
+  - first:
+      213: 4631048592164448433
+    second: girl-Shoot (2)
+  - first:
+      213: -2294701576988435409
+    second: boy-Run__008
+  - first:
+      213: 3094782291624487082
+    second: girl-Run (7)
+  - first:
+      213: -5323628009437216476
+    second: boy-Run__006
+  - first:
+      213: 2877201317021247519
+    second: girl-Melee (5)
+  - first:
+      213: 1555893624721883370
+    second: boy-Run__000
+  - first:
+      213: -7109362185662918037
+    second: girl-Dead (1)
+  - first:
+      213: 6986539535226199601
+    second: girl-Run (2)
+  - first:
+      213: -1866447346132395230
+    second: boy-Dead__001
+  - first:
+      213: 8130861073705800728
+    second: girl-Run (3)
+  - first:
+      213: -3704069575768251776
+    second: girl-Dead (2)
+  - first:
+      213: -1626277358759028516
+    second: boy-Run__005
+  - first:
+      213: 7392012023011650581
+    second: girl-Run (5)
+  - first:
+      213: 6606850319996448089
+    second: girl-Run (6)
+  - first:
+      213: 2331700081159350432
+    second: girl-Jump (1)
+  - first:
+      213: 2750291002552575441
+    second: girl-Jump (10)
+  - first:
+      213: 4165306415570951664
+    second: girl-Jump (8)
+  - first:
+      213: 7444255007447645133
+    second: girl-Jump (9)
+  - first:
+      213: 489550940264789916
+    second: girl-Jump (4)
+  - first:
+      213: 4811433276367449935
+    second: girl-Jump (5)
+  - first:
+      213: -8907062161196703975
+    second: girl-Jump (2)
+  - first:
+      213: 819977877140656713
+    second: girl-Jump (7)
+  - first:
+      213: -8224888939448217323
+    second: boy-Jump__000
+  - first:
+      213: -5593397045913397980
+    second: girl-Melee (6)
+  - first:
+      213: -6467921528445201499
+    second: girl-Melee (7)
+  - first:
+      213: 5940882190089987241
+    second: girl-Jump (3)
+  - first:
+      213: 4773745023354483633
+    second: girl-Jump (6)
+  - first:
+      213: 6129211028599012125
+    second: boy-Jump__001
+  - first:
+      213: -5633648867461197560
+    second: girl-Run (1)
+  - first:
+      213: 7273287110096265336
+    second: girl-Melee (2)
+  - first:
+      213: 7102315402030761329
+    second: girl-Idle (10)
+  - first:
+      213: -568266571958010805
+    second: boy-Idle__004
+  - first:
+      213: -1181134099143977339
+    second: boy-Jump__002
+  - first:
+      213: 2049469857283478016
+    second: boy-Jump__003
+  - first:
+      213: 5661878196036813779
+    second: boy-Jump__008
+  - first:
+      213: 4806750354247463705
+    second: boy-Jump__007
+  - first:
+      213: -3727127639085439395
+    second: boy-Jump__006
+  - first:
+      213: 9022149147428352916
+    second: boy-Idle__003
+  - first:
+      213: 8021892791274755115
+    second: boy-Idle__005
+  - first:
+      213: 1303153129324397028
+    second: boy-Idle__000
+  - first:
+      213: -5274827943221971234
+    second: boy-Idle__001
+  - first:
+      213: 4792073785614116729
+    second: boy-Idle__002
+  - first:
+      213: 8114245944745231194
+    second: girl-Idle (6)
+  - first:
+      213: -4572215150702693046
+    second: girl-Idle (5)
+  - first:
+      213: -8217074948307647369
+    second: boy-Dead__000
+  - first:
+      213: -1309319838063041491
+    second: girl-Idle (3)
+  - first:
+      213: -8921210831499593732
+    second: girl-Idle (4)
+  - first:
+      213: 4345922775613849548
+    second: girl-Idle (1)
+  - first:
+      213: 4062520038938034236
+    second: girl-Melee (1)
+  - first:
+      213: -2953028696351100743
+    second: boy-Dead__007
+  - first:
+      213: -3074887305961293636
+    second: boy-Dead__008
+  - first:
+      213: 6893609035897533667
+    second: boy-Dead__009
+  - first:
+      213: -9163167505299407234
+    second: boy-Idle__009
+  - first:
+      213: -6675972334577404683
+    second: boy-Idle__008
+  - first:
+      213: 8182563622808613089
+    second: boy-Idle__007
+  - first:
+      213: 7147632952581430518
+    second: boy-Idle__006
+  - first:
+      213: -410008646663176482
+    second: boy-Jump__004
+  - first:
+      213: 7977424759688117737
+    second: boy-Jump__005
+  - first:
+      213: 6035484610330254178
+    second: boy-Jump__009
+  - first:
+      213: -7836132353713074165
+    second: girl-Dead (7)
+  - first:
+      213: -2530640228354204504
+    second: girl-Dead (8)
+  - first:
+      213: -5620083885616482657
+    second: girl-Dead (9)
+  - first:
+      213: -8105228512021902596
+    second: girl-Idle
+  - first:
+      213: -8736929384114754616
+    second: girl-Idle (2)
+  - first:
+      213: 3707921187612933719
+    second: girl-Idle (9)
+  - first:
+      213: -8196062891184336589
+    second: girl-Idle (8)
+  - first:
+      213: 6584344317399346143
+    second: girl-Idle (7)
+  - first:
+      213: -9183367247005420561
+    second: girl-Slide (5)
+  - first:
+      213: 8454929457855953645
+    second: girl-Slide (4)
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: girl-Shoot (1)
+      rect:
+        serializedVersion: 2
+        x: 1.5
+        y: 1800.5
+        width: 260
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4995961749505609124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Dead (10)
+      rect:
+        serializedVersion: 2
+        x: 264.5
+        y: 1913.5
+        width: 248
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3263124089614149240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Dead__006
+      rect:
+        serializedVersion: 2
+        x: 515.5
+        y: 1917.5
+        width: 246.5
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4658359576748086414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Dead__005
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1912.5
+        width: 242.5
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2816228744066512130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Dead (6)
+      rect:
+        serializedVersion: 2
+        x: 515.5
+        y: 1783
+        width: 239
+        height: 131.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3733648899565474420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Dead__004
+      rect:
+        serializedVersion: 2
+        x: 264.5
+        y: 1758.5
+        width: 236.5
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -9049722121030222106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Dead (5)
+      rect:
+        serializedVersion: 2
+        x: 1.5
+        y: 1648.5
+        width: 233
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1650205259503641139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Slide (1)
+      rect:
+        serializedVersion: 2
+        x: 1010.5
+        y: 1854
+        width: 216.5
+        height: 192.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4773333946964597748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Slide (2)
+      rect:
+        serializedVersion: 2
+        x: 757.5
+        y: 1717
+        width: 216.5
+        height: 192.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1787337736871514656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Slide (3)
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1587.5
+        width: 216.5
+        height: 192.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2761767173493113761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Melee (4)
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1339
+        width: 216
+        height: 245.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 693704112905894010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Dead__003
+      rect:
+        serializedVersion: 2
+        x: 237.5
+        y: 1577.5
+        width: 212.5
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1734037515369281106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Dead (4)
+      rect:
+        serializedVersion: 2
+        x: 1.5
+        y: 1471
+        width: 210
+        height: 174.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5186445940703902534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Run (4)
+      rect:
+        serializedVersion: 2
+        x: 214.5
+        y: 1335.5
+        width: 202.5
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3062711489396252327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Run__004
+      rect:
+        serializedVersion: 2
+        x: 1.5
+        y: 1233.5
+        width: 201.5
+        height: 234.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 369760840496232047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Run__003
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1816
+        width: 201
+        height: 230.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6263596205340727405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Dead (3)
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1634
+        width: 200
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6728524600796024142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Dead__002
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1414.5
+        width: 198.5
+        height: 216.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1751469490528701748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Shoot (3)
+      rect:
+        serializedVersion: 2
+        x: 723.5
+        y: 1468
+        width: 195.5
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6849037515600443402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Slide__000
+      rect:
+        serializedVersion: 2
+        x: 723.5
+        y: 1275
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2381698446337290494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Slide__001
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1146
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8548621428956354802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Slide__009
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1142.5
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 250766593491463436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Slide__002
+      rect:
+        serializedVersion: 2
+        x: 1.5
+        y: 1040
+        width: 193.5
+        height: 190.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2376923300452824883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Slide__008
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1856
+        width: 193.5
+        height: 190.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7901017940863586533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Slide__003
+      rect:
+        serializedVersion: 2
+        x: 1630.5
+        y: 1856
+        width: 193
+        height: 190.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1272124949314004686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Slide__007
+      rect:
+        serializedVersion: 2
+        x: 1826.5
+        y: 1856
+        width: 193
+        height: 190.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -680020395874390470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Slide__004
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1662.5
+        width: 192
+        height: 190.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8742079031154341005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Slide__006
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1622.5
+        width: 192
+        height: 190.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -129386919813076893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Slide__005
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1429
+        width: 191.5
+        height: 190.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 165678648277688442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Run__009
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1621.5
+        width: 186.5
+        height: 231.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2734840222597769033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Run__002
+      rect:
+        serializedVersion: 2
+        x: 1818.5
+        y: 1610
+        width: 184
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -546398837800719209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Run__007
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1381.5
+        width: 182.5
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2403891701303672364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Run__001
+      rect:
+        serializedVersion: 2
+        x: 1814.5
+        y: 1361.5
+        width: 181.5
+        height: 245.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6417841079782564887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Run (8)
+      rect:
+        serializedVersion: 2
+        x: 1814.5
+        y: 1120
+        width: 181.5
+        height: 238.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7964887932457790508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Melee (3)
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1415.5
+        width: 180.5
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1684752063364896709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Shoot (2)
+      rect:
+        serializedVersion: 2
+        x: 1178.5
+        y: 1180
+        width: 178.5
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4631048592164448433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Run__008
+      rect:
+        serializedVersion: 2
+        x: 921.5
+        y: 1188
+        width: 178.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2294701576988435409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Run (7)
+      rect:
+        serializedVersion: 2
+        x: 921.5
+        y: 946
+        width: 176
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3094782291624487082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Run__006
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1168
+        width: 175
+        height: 244.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5323628009437216476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Melee (5)
+      rect:
+        serializedVersion: 2
+        x: 1100.5
+        y: 930.5
+        width: 173
+        height: 246.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2877201317021247519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Run__000
+      rect:
+        serializedVersion: 2
+        x: 1100.5
+        y: 690.5
+        width: 173
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1555893624721883370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Dead (1)
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1144.5
+        width: 172.5
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7109362185662918037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Run (2)
+      rect:
+        serializedVersion: 2
+        x: 1276.5
+        y: 913
+        width: 172
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6986539535226199601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Dead__001
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1038
+        width: 172
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1866447346132395230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Run (3)
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 899
+        width: 171.5
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8130861073705800728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Dead (2)
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 905
+        width: 171
+        height: 234.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3704069575768251776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Run__005
+      rect:
+        serializedVersion: 2
+        x: 1.5
+        y: 802.5
+        width: 170
+        height: 234.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1626277358759028516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Run (5)
+      rect:
+        serializedVersion: 2
+        x: 174.5
+        y: 663
+        width: 169.5
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7392012023011650581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Run (6)
+      rect:
+        serializedVersion: 2
+        x: 1.5
+        y: 549
+        width: 169
+        height: 250.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6606850319996448089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Jump (1)
+      rect:
+        serializedVersion: 2
+        x: 577.5
+        y: 792
+        width: 167.5
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2331700081159350432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Jump (10)
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 792.5
+        width: 167
+        height: 242.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2750291002552575441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Jump (8)
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 700.5
+        width: 167
+        height: 242.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4165306415570951664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Jump (9)
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 547
+        width: 167
+        height: 242.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7444255007447645133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Jump (4)
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 457.5
+        width: 167
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 489550940264789916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Jump (5)
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 214.5
+        width: 167
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4811433276367449935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Jump (2)
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 647.5
+        width: 166.5
+        height: 248.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8907062161196703975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Jump (7)
+      rect:
+        serializedVersion: 2
+        x: 173.5
+        y: 413
+        width: 166.5
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 819977877140656713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Jump__000
+      rect:
+        serializedVersion: 2
+        x: 1.5
+        y: 311.5
+        width: 166.5
+        height: 234.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8224888939448217323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Melee (6)
+      rect:
+        serializedVersion: 2
+        x: 1.5
+        y: 61.5
+        width: 165
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5593397045913397980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Melee (7)
+      rect:
+        serializedVersion: 2
+        x: 169.5
+        y: 61.5
+        width: 157
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6467921528445201499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Jump (3)
+      rect:
+        serializedVersion: 2
+        x: 516.5
+        y: 549
+        width: 166
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5940882190089987241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Jump (6)
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 404.5
+        width: 166
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4773745023354483633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Jump__001
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 303
+        width: 165
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6129211028599012125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Run (1)
+      rect:
+        serializedVersion: 2
+        x: 329.5
+        y: 158.5
+        width: 163.5
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5633648867461197560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Melee (2)
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 54
+        width: 154
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7273287110096265336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Idle (10)
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 54
+        width: 153
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7102315402030761329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Idle__004
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 303
+        width: 155
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -568266571958010805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Jump__002
+      rect:
+        serializedVersion: 2
+        x: 1451.5
+        y: 919
+        width: 160.5
+        height: 222.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1181134099143977339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Jump__003
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 919.5
+        width: 160.5
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2049469857283478016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Jump__008
+      rect:
+        serializedVersion: 2
+        x: 1778.5
+        y: 893
+        width: 160
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 5661878196036813779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Jump__007
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 678
+        width: 158
+        height: 238.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4806750354247463705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Jump__006
+      rect:
+        serializedVersion: 2
+        x: 1451.5
+        y: 675.5
+        width: 156
+        height: 240.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3727127639085439395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Idle__003
+      rect:
+        serializedVersion: 2
+        x: 1276.5
+        y: 648.5
+        width: 155.5
+        height: 241.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 9022149147428352916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Idle__005
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 447
+        width: 155.5
+        height: 240.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8021892791274755115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Idle__000
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 201
+        width: 155
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1303153129324397028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Idle__001
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 647.5
+        width: 155
+        height: 242.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5274827943221971234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Idle__002
+      rect:
+        serializedVersion: 2
+        x: 1610.5
+        y: 433
+        width: 155
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4792073785614116729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Idle (6)
+      rect:
+        serializedVersion: 2
+        x: 1610.5
+        y: 185.5
+        width: 154
+        height: 244.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8114245944745231194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Idle (5)
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 428
+        width: 153.5
+        height: 244.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4572215150702693046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Dead__000
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 190.5
+        width: 153.5
+        height: 234.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8217074948307647369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Idle (3)
+      rect:
+        serializedVersion: 2
+        x: 1246.5
+        y: 400
+        width: 153
+        height: 245.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1309319838063041491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Idle (4)
+      rect:
+        serializedVersion: 2
+        x: 1246.5
+        y: 152
+        width: 153
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8921210831499593732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Idle (1)
+      rect:
+        serializedVersion: 2
+        x: 1768.5
+        y: 398.5
+        width: 152.5
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4345922775613849548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Melee (1)
+      rect:
+        serializedVersion: 2
+        x: 1768.5
+        y: 149.5
+        width: 152.5
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4062520038938034236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Dead__007
+      rect:
+        serializedVersion: 2
+        x: 515.5
+        y: 1917.5
+        width: 246.5
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2953028696351100743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Dead__008
+      rect:
+        serializedVersion: 2
+        x: 515.5
+        y: 1917.5
+        width: 246.5
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -3074887305961293636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Dead__009
+      rect:
+        serializedVersion: 2
+        x: 515.5
+        y: 1917.5
+        width: 246.5
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6893609035897533667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Idle__009
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 647.5
+        width: 155
+        height: 242.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -9163167505299407234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Idle__008
+      rect:
+        serializedVersion: 2
+        x: 1610.5
+        y: 433
+        width: 155
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6675972334577404683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Idle__007
+      rect:
+        serializedVersion: 2
+        x: 1276.5
+        y: 648.5
+        width: 155.5
+        height: 241.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8182563622808613089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Idle__006
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 303
+        width: 155
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7147632952581430518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Jump__004
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 919.5
+        width: 160.5
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -410008646663176482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Jump__005
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 919.5
+        width: 160.5
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7977424759688117737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boy-Jump__009
+      rect:
+        serializedVersion: 2
+        x: 1778.5
+        y: 893
+        width: 160
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6035484610330254178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Dead (7)
+      rect:
+        serializedVersion: 2
+        x: 264.5
+        y: 1913.5
+        width: 248
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7836132353713074165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Dead (8)
+      rect:
+        serializedVersion: 2
+        x: 264.5
+        y: 1913.5
+        width: 248
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2530640228354204504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Dead (9)
+      rect:
+        serializedVersion: 2
+        x: 264.5
+        y: 1913.5
+        width: 248
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5620083885616482657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Idle
+      rect:
+        serializedVersion: 2
+        x: 1768.5
+        y: 398.5
+        width: 152.5
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8105228512021902596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Idle (2)
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 54
+        width: 153
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8736929384114754616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Idle (9)
+      rect:
+        serializedVersion: 2
+        x: 1246.5
+        y: 400
+        width: 153
+        height: 245.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3707921187612933719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Idle (8)
+      rect:
+        serializedVersion: 2
+        x: 1246.5
+        y: 152
+        width: 153
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8196062891184336589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Idle (7)
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 428
+        width: 153.5
+        height: 244.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6584344317399346143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Slide (5)
+      rect:
+        serializedVersion: 2
+        x: 757.5
+        y: 1717
+        width: 216.5
+        height: 192.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -9183367247005420561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: girl-Slide (4)
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1587.5
+        width: 216.5
+        height: 192.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8454929457855953645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

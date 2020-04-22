@@ -1,0 +1,1552 @@
+fileFormatVersion: 2
+guid: 5c5b577ec5a28d2429a8b3a1a4c53b5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7949680546146328469
+    second: Iddle_walk_ghost_def_0
+  - first:
+      213: -2033666784922365608
+    second: Iddle_walk_ghost_def_1
+  - first:
+      213: 3488903653960174153
+    second: Iddle_walk_ghost_def_2
+  - first:
+      213: 9193176934779451180
+    second: Iddle_walk_ghost_def_3
+  - first:
+      213: -3313513350391355015
+    second: Iddle_walk_ghost_def_4
+  - first:
+      213: -8862596197522870707
+    second: Iddle_walk_ghost_def_5
+  - first:
+      213: -1940839344586399010
+    second: Iddle_walk_ghost_def_6
+  - first:
+      213: 2888677542379615522
+    second: Iddle_walk_ghost_def_7
+  - first:
+      213: 1226570477699852443
+    second: Iddle_walk_ghost_def_8
+  - first:
+      213: 442344085023067819
+    second: Iddle_walk_ghost_def_9
+  - first:
+      213: -9148614060514655652
+    second: Iddle_walk_ghost_def_10
+  - first:
+      213: -547194995533125770
+    second: Iddle_walk_ghost_def_11
+  - first:
+      213: -4019324116531017413
+    second: Iddle_walk_ghost_def_12
+  - first:
+      213: 598759520651907841
+    second: Iddle_walk_ghost_def_13
+  - first:
+      213: 6080917989521549509
+    second: Iddle_walk_ghost_def_14
+  - first:
+      213: -5552661988349712429
+    second: Iddle_walk_ghost_def_15
+  - first:
+      213: -6597209508265060542
+    second: Iddle_walk_ghost_def_16
+  - first:
+      213: -4519580590103307488
+    second: Iddle_walk_ghost_def_17
+  - first:
+      213: 1216750086271429865
+    second: Iddle_walk_ghost_def_18
+  - first:
+      213: 4373651726256389248
+    second: Iddle_walk_ghost_def_19
+  - first:
+      213: 7058631795025611098
+    second: Iddle_walk_ghost_def_20
+  - first:
+      213: 2278982846332556424
+    second: Iddle_walk_ghost_def_21
+  - first:
+      213: 7323325098564498129
+    second: Iddle_walk_ghost_def_22
+  - first:
+      213: -5864069236539197986
+    second: Iddle_walk_ghost_def_23
+  - first:
+      213: -3292771048884054260
+    second: Iddle_walk_ghost_def_24
+  - first:
+      213: -1114598271331190363
+    second: Iddle_walk_ghost_def_25
+  - first:
+      213: -8299958161977016882
+    second: Iddle_walk_ghost_def_26
+  - first:
+      213: 7159118405234994766
+    second: Iddle_walk_ghost_def_27
+  - first:
+      213: -1617477868420854979
+    second: Iddle_walk_ghost_def_28
+  - first:
+      213: -5282162179833085514
+    second: Iddle_walk_ghost_def_29
+  - first:
+      213: 1153836496189594405
+    second: Iddle_walk_ghost_def_30
+  - first:
+      213: -1980171978658884596
+    second: Iddle_walk_ghost_def_31
+  - first:
+      213: 6369898021551980937
+    second: Iddle_walk_ghost_def_32
+  - first:
+      213: 959337296482235088
+    second: Iddle_walk_ghost_def_33
+  - first:
+      213: 2185438936322837767
+    second: Iddle_walk_ghost_def_34
+  - first:
+      213: -2230351388437965398
+    second: Iddle_walk_ghost_def_35
+  - first:
+      213: -3693293176307476031
+    second: Iddle_walk_ghost_def_36
+  - first:
+      213: 6300079219158654409
+    second: Iddle_walk_ghost_def_37
+  - first:
+      213: -8504113642982479073
+    second: Iddle_walk_ghost_def_38
+  - first:
+      213: 7734638512946174825
+    second: Iddle_walk_ghost_def_39
+  - first:
+      213: 8898692074251183925
+    second: Iddle_walk_ghost_def_40
+  - first:
+      213: -1206409178741714946
+    second: Iddle_walk_ghost_def_41
+  - first:
+      213: 5996538583489302375
+    second: Iddle_walk_ghost_def_42
+  - first:
+      213: -3087807145087394212
+    second: Iddle_walk_ghost_def_43
+  - first:
+      213: -8105071484272075251
+    second: Iddle_walk_ghost_def_44
+  - first:
+      213: 2803643826694659311
+    second: Iddle_walk_ghost_def_45
+  - first:
+      213: -6937007161479007710
+    second: Iddle_walk_ghost_def_46
+  - first:
+      213: 6681807016610313428
+    second: Iddle_walk_ghost_def_47
+  - first:
+      213: 1956961066728502604
+    second: Iddle_walk_ghost_def_48
+  - first:
+      213: -5426188264522311187
+    second: Iddle_walk_ghost_def_49
+  - first:
+      213: 2175102164391413240
+    second: Iddle_walk_ghost_def_50
+  - first:
+      213: -8624321882331750012
+    second: Iddle_walk_ghost_def_51
+  - first:
+      213: -1708936285018204412
+    second: Iddle_walk_ghost_def_52
+  - first:
+      213: 3169406245062757512
+    second: Iddle_walk_ghost_def_53
+  - first:
+      213: 671316257025393686
+    second: Iddle_walk_ghost_def_54
+  - first:
+      213: -5342872320249338113
+    second: Iddle_walk_ghost_def_55
+  - first:
+      213: -743475220111295731
+    second: Iddle_walk_ghost_def_56
+  - first:
+      213: -8478041641501197360
+    second: Iddle_walk_ghost_def_57
+  - first:
+      213: 8071163715754181386
+    second: Iddle_walk_ghost_def_58
+  - first:
+      213: -8733069906177882703
+    second: Iddle_walk_ghost_def_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_0
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 4584
+        width: 105
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd92f1b0b8e2f7b41bea43189e5baa67
+      internalID: 7949680546146328469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 4491
+        width: 286
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a78351a43f8c9945b976f4d84143052
+      internalID: -2033666784922365608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_2
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 4584
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb951a2b97817ce4688a7bf374df89ae
+      internalID: 3488903653960174153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_3
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 4491
+        width: 286
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947c1e0a3aeda5b4eaa2178cadc7bda5
+      internalID: 9193176934779451180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_4
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 4584
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad2de4953bebc940b26da5cafd60293
+      internalID: -3313513350391355015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_5
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 4491
+        width: 286
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cb9fe49089cbf4ba939d136a3eb238
+      internalID: -8862596197522870707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_6
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 4584
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc422f520848464ca4d1a1da5559965
+      internalID: -1940839344586399010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_7
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 4491
+        width: 286
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0596932605ada1428108333444d8e63
+      internalID: 2888677542379615522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_8
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 4584
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ee55b2371584f4da52d8c390762dbe
+      internalID: 1226570477699852443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_9
+      rect:
+        serializedVersion: 2
+        x: 4504
+        y: 4491
+        width: 288
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0634b868da46d3845a0294dee8602f42
+      internalID: 442344085023067819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_10
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3462
+        width: 286
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b07d16a4969224c9e7d6b10a901431
+      internalID: -9148614060514655652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_11
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 3462
+        width: 279
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0ee326b73a2b841bc64a849d0de79a
+      internalID: -547194995533125770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_12
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 3792
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f89b0db5e6a3f40afa3b0fb1397eb0
+      internalID: -4019324116531017413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_13
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 3462
+        width: 280
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5beb1860e269ff498ade6e61ce664de
+      internalID: 598759520651907841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_14
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 3792
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba04d590e8c8b7409e89cea50c6ddea
+      internalID: 6080917989521549509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_15
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 3462
+        width: 278
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35735b2354b74804b93df3b0b49c7bda
+      internalID: -5552661988349712429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_16
+      rect:
+        serializedVersion: 2
+        x: 3535
+        y: 3792
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c1fecdd769e544bd1ac9a98a7259e
+      internalID: -6597209508265060542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_17
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 3462
+        width: 278
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cc0b10b8379334cb8611c99f8cc085
+      internalID: -4519580590103307488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_18
+      rect:
+        serializedVersion: 2
+        x: 4562
+        y: 3792
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f109bfb05a39ab4f894c18f3d13a9ba
+      internalID: 1216750086271429865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 3558
+        width: 105
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbf479a2fb811b43a78670682216c5a
+      internalID: 4373651726256389248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_20
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 3527
+        width: 103
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e3f4e36f41f6f4e8da20089e8c7c8b
+      internalID: 7058631795025611098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_21
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 3527
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fd5f41b6a75964f8dc1ef71d57139e
+      internalID: 2278982846332556424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_22
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 3527
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9849846830f818342b53e66917559743
+      internalID: 7323325098564498129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_23
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 3527
+        width: 103
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4973553dad93e034b9495bf7bd3c295e
+      internalID: -5864069236539197986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_24
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2433
+        width: 276
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b55e055a0b8c74da1b2ee3f0f22152
+      internalID: -3292771048884054260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_25
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2765
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26da5c9adad31954c9394e93b53ec01b
+      internalID: -1114598271331190363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_26
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2433
+        width: 279
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadd58561a071ff488aed6d554a68fd4
+      internalID: -8299958161977016882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_27
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2765
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425ac68e6975592458994b7617260f7d
+      internalID: 7159118405234994766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_28
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 2433
+        width: 264
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d1ad2e54322204fab0afee84903df4
+      internalID: -1617477868420854979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_29
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 2433
+        width: 261
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1c2361902c6de458583e1dd614bcf0
+      internalID: -5282162179833085514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_30
+      rect:
+        serializedVersion: 2
+        x: 4504
+        y: 2433
+        width: 263
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8676c30a2e1c04b40a188b1272ac0470
+      internalID: 1153836496189594405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2498
+        width: 105
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3f4a6338779dd4aa486c473b04ffa4
+      internalID: -1980171978658884596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_32
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2498
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d63ad82e0dea5d4a9a1215ea91ca3f0
+      internalID: 6369898021551980937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_33
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 2529
+        width: 106
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766ab650d9dee08438e4db78baed929d
+      internalID: 959337296482235088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_34
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 2529
+        width: 103
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edee5608ff9376f4da341d90d72c7510
+      internalID: 2185438936322837767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_35
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 2529
+        width: 103
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b6a5e98bbaa6c42be8be9d0dd6bdbd
+      internalID: -2230351388437965398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_36
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1407
+        width: 263
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb1bdd6c46689540a1029f4a97e82cc
+      internalID: -3693293176307476031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_37
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1407
+        width: 261
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902141dbab85cca4ebecc73df951679e
+      internalID: 6300079219158654409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_38
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1407
+        width: 264
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b74c67a6873974ea30606daa49d5d2
+      internalID: -8504113642982479073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_39
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 1407
+        width: 296
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61280fd749e917f4ba0b7f3a15aa151e
+      internalID: 7734638512946174825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_40
+      rect:
+        serializedVersion: 2
+        x: 3535
+        y: 1736
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6d0ce57ec1f914f89b993e326c374d
+      internalID: 8898692074251183925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_41
+      rect:
+        serializedVersion: 2
+        x: 4504
+        y: 1407
+        width: 298
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa27401dbb9ca2041bcd35129645c246
+      internalID: -1206409178741714946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_42
+      rect:
+        serializedVersion: 2
+        x: 4562
+        y: 1736
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d1a36a2aaacb94abcbb8ec03874407
+      internalID: 5996538583489302375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_43
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1500
+        width: 105
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176a5784cf3777f4ca6d4bc645064257
+      internalID: -3087807145087394212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_44
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1500
+        width: 103
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe12d815aef05428b650a3b5ad3a99
+      internalID: -8105071484272075251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_45
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1500
+        width: 106
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da537f44509dee84caaa810ecd537428
+      internalID: 2803643826694659311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_46
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 1472
+        width: 103
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a8f373330181548ac47c8e61da1b7f
+      internalID: -6937007161479007710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_47
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 1472
+        width: 103
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c20c03df6ec5f4980eb70c9ee6dfad
+      internalID: 6681807016610313428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_48
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 378
+        width: 296
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491d3e46cda01564cb6b6b084093f32a
+      internalID: 1956961066728502604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_49
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 709
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c79020b8f58658409c09da24053f23b
+      internalID: -5426188264522311187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_50
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 378
+        width: 296
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6241d05412d7ea4438649629e1ec1b6a
+      internalID: 2175102164391413240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_51
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 709
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969ea4e3619001549ba4bae92c801704
+      internalID: -8624321882331750012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_52
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 378
+        width: 299
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a78244edd05a242945d82e6c30b22e
+      internalID: -1708936285018204412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_53
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 709
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498a52c58c4420c48a2b00a258891993
+      internalID: 3169406245062757512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_54
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 378
+        width: 296
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688c6f377a7e8ff45916fdb24129bdcd
+      internalID: 671316257025393686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_55
+      rect:
+        serializedVersion: 2
+        x: 3535
+        y: 709
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cef62832405214f9afe40bf86f000d
+      internalID: -5342872320249338113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 443
+        width: 105
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cf7a2f18669884cb5964b8fcc5e750
+      internalID: -743475220111295731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_57
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 443
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84143d7cdd140cf4d9016a0e5b11bf9c
+      internalID: -8478041641501197360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_58
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 443
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181b0ccfeea0c2144b26aa55d167e313
+      internalID: 8071163715754181386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iddle_walk_ghost_def_59
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 443
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b57cce3367b374181d27c60be79758
+      internalID: -8733069906177882703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d39ebf11ad5f12148acfd7d3786b0015
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
